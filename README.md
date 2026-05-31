@@ -7,7 +7,7 @@
 ## 🚀 À propos
 
 ```js
-const titithen00b = {
+const axolotty = {
   rôle: "Infrastructure IT & Automatisation",
   os: ["Debian", "Ubuntu", "macOS M3 Pro", "Windows"],
   infra: ["Docker", "Nginx", "Synology NAS", "Gitea", "VPS"],
@@ -53,5 +53,5 @@ const titithen00b = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Titithen00b/Titithen00b/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Titithen00b/Titithen00b/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Titithen00b/Titithen00b/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Axolotty/Axolotty/output/github-snake.svg" />
 </picture>
